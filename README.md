@@ -5,7 +5,7 @@
 
 # astrbot_plugin_broadcast
 
-_✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 禁言人机插件 ✨_  
+_✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 广播插件 ✨_  
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
