@@ -14,6 +14,7 @@ _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 广播插件 ✨_
 
 </div>
 
+
 ## 🤝 介绍
 
 广播助手，帮助你向所有群聊广播消息(支持任何格式消息)
@@ -43,6 +44,8 @@ git clone https://github.com/Zhalslar/astrbot_plugin_broadcast
 | /广播      |  向所有启用广播的群聊广播消息     |
 
 ### 示例图
+
+![b9ee634cf89f231b939c694203f6837](https://github.com/user-attachments/assets/bca491cb-df34-46f8-acec-ee1721e90f25)
 
 ## 👥 贡献指南
 
