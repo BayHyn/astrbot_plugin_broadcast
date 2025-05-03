@@ -5,7 +5,7 @@
 
 # astrbot_plugin_broadcast
 
-_✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 禁言人机插件 ✨_  
+_✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 广播插件 ✨_  
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -13,6 +13,7 @@ _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 禁言人机插件 ✨_
 [![GitHub](https://img.shields.io/badge/作者-Zhalslar-blue)](https://github.com/Zhalslar)
 
 </div>
+
 
 ## 🤝 介绍
 
@@ -43,6 +44,8 @@ git clone https://github.com/Zhalslar/astrbot_plugin_broadcast
 | /广播      |  向所有启用广播的群聊广播消息     |
 
 ### 示例图
+
+![b9ee634cf89f231b939c694203f6837](https://github.com/user-attachments/assets/bca491cb-df34-46f8-acec-ee1721e90f25)
 
 ## 👥 贡献指南
 
