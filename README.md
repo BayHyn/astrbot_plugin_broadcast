@@ -56,4 +56,4 @@ git clone https://github.com/Zhalslar/astrbot_plugin_broadcast
 
 ## 📌 注意事项
 
-- 想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561
+- 想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561（不点star不给进）
