@@ -20,7 +20,7 @@ import random
     "astrbot_plugin_broadcast",
     "Zhalslar",
     "广播助手，帮助你向所有群聊广播消息(支持任何格式消息)",
-    "1.0.2",
+    "v1.0.2",
     "https://github.com/Zhalslar/astrbot_plugin_broadcast",
 )
 class NobotPlugin(Star):
