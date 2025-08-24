@@ -20,7 +20,7 @@ import random
     "astrbot_plugin_broadcast",
     "Zhalslar",
     "广播助手，帮助你向所有群聊广播消息(支持任何格式消息)",
-    "v1.0.2",
+    "v1.0.3",
     "https://github.com/Zhalslar/astrbot_plugin_broadcast",
 )
 class NobotPlugin(Star):
@@ -175,6 +175,7 @@ class NobotPlugin(Star):
                             group_id=int(gid), message=self.broadcast_message
                         )
                         success_count += 1
+                        controller.keep(timeout=30, reset_timeout=True)
                     except Exception as e:
                         failure_count += 1
                         logger.error(f"向群组 {gid} 发送消息失败: {e}")
